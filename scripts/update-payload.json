@@ -1,0 +1,9 @@
+{
+  "data": {
+    "attributes": {
+        "execution-mode": "agent",
+        "agent-pool-id": "__AGENT_POOL_ID__"
+    },
+    "type": "workspaces"
+  }
+}
